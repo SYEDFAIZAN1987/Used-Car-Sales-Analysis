@@ -385,5 +385,5 @@ stargazer(All_subset_model_best, type = "text")                       # Create T
 plot(All_subset_model_best)                                           # Diagnostic plots of the final model
 
 
-# End of the Final Project of ALY 6010 under the instruction of Dr. Harpreet Sharma in March, 2024.
+
 
